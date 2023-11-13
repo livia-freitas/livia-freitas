@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [portfolio.freitasl.sites.grinnell.edu](portfolio.freitasl.sites.grinnell.edu)
 
-- 📝 I regularly write articles on [digital humanities tools](digital humanities tools)
-
 - 💬 Ask me about **machine learning models for low-resource languages**
 
 - ⚡ Fun fact **I am currently reading "The Overstory" by Richard Powers**
