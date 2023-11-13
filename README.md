@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **machine learning models for low-resource languages**
 
-- ⚡ Fun fact **I am currently reading "The Overstory" by Richard Powers**
+- ⚡ Fun fact **I love reading poetry and playing jazz piano :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
