@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Livia (she/her)</h1>
 <h3 align="center">A Computer Science and English student at Grinnell College, class of '25</h3>
 
-- 🌱 I’m currently learning **efficient algorithms for traversing trees and graphs**
+- 🌱 I’m currently learning **Prim, Kruskal, and Dijkstra's algorithms**
 
 - 👨‍💻 All of my projects are available at [portfolio.freitasl.sites.grinnell.edu](portfolio.freitasl.sites.grinnell.edu)
 
