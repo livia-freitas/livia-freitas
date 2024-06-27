@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio.freitasl.sites.grinnell.edu](portfolio.freitasl.sites.grinnell.edu)
 
-- 💬 Ask me about **machine learning models for low-resource languages.**
+- 💬 Ask me about **machine learning models for translating low-resource languages.**
 
 - ⚡ Fun fact: **I love reading poetry and playing jazz piano :)**
 
