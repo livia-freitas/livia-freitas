@@ -1,11 +1,11 @@
 <h1 align="center">Hi! I'm Livia (she/her)</h1>
 <h3 align="center">A Computer Science and English student at Grinnell College, class of '25</h3>
 
-- 🌱 I’m currently learning **Prim, Kruskal, and Dijkstra's algorithms**
+- 🌱 I’m currently learning **Seaborn.**
 
 - 👨‍💻 All of my projects are available at [portfolio.freitasl.sites.grinnell.edu](portfolio.freitasl.sites.grinnell.edu)
 
-- 💬 Ask me about **machine learning models for low-resource languages**
+- 💬 Ask me about **machine learning models for low-resource languages.**
 
 - ⚡ Fun fact: **I love reading poetry and playing jazz piano :)**
 
